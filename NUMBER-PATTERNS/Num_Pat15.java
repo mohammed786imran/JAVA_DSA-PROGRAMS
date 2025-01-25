@@ -20,5 +20,4 @@ public class NUM15 {
 	         System.out.println();
 	      }
 	}
-
 }
