@@ -17,5 +17,4 @@ public class NUM14 {
 		System.out.println();
 		}
 	}
-
 }
