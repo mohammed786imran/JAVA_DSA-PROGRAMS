@@ -13,5 +13,4 @@ public class num12 {
 		System.out.println();
 		}
 	}
-
 }
