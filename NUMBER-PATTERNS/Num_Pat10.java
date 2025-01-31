@@ -17,4 +17,5 @@ public class num10 {
 		System.out.println();
 		}
 	}
+
 }
