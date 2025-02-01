@@ -15,5 +15,4 @@ public class NUM6 {
 		System.out.println();
 		}
 	}
-
 }
