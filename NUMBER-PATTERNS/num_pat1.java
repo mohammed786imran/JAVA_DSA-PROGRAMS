@@ -13,5 +13,4 @@ public class NUM1 {
 		System.out.println();
 		}
 	}
-
 }
