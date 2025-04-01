@@ -28,5 +28,4 @@ public class SUSPENDRESUME extends Thread {
                     t3.start();
                     t2.resume();
 	}
-
 }
