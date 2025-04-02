@@ -1,7 +1,6 @@
 package MYPACKAGE;
 
 public class STUDENTS {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		STUDENTS S1=new STUDENTS(111,"MOHAMMED");
