@@ -8,5 +8,4 @@ int a=10,b;
 b=(a==1)?20:30;
 System.out.println("value of b is:" +b);
 	}
-
 }
