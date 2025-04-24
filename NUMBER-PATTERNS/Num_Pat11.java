@@ -14,5 +14,4 @@ public class num11 {
 		System.out.println();
 		}
 	}
-
 }
