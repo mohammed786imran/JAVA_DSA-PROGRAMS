@@ -18,5 +18,4 @@ public class XPATTERN {
 		System.out.println();
 		}
 	}
-
 }
