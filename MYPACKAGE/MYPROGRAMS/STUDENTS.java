@@ -18,6 +18,7 @@ STUDENTS(int i,String n)
 void display()
 {
 	System.out.println(id+" "+name);
+     }
+	
 }
-	}
 
