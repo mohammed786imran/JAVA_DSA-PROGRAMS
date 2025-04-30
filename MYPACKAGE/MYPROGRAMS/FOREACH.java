@@ -13,6 +13,11 @@ public class FOREACH {
 	{
 for(int element : arrays)
 System.out.print(" "+element);
-}
+
 	}
+	
+	
+   }
+
+
 }
