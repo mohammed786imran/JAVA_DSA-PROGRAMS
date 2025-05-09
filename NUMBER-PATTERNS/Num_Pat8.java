@@ -15,4 +15,5 @@ public class NUM8 {
 		System.out.println();
 		}
 }
+
 }
