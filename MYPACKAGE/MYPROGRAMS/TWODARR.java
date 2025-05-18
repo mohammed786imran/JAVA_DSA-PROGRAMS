@@ -21,7 +21,8 @@ for(i=0;i<4;i++)
 		System.out.print(twod[i][j]+" ");
 	}
 	System.out.println();
-	}
+	
+}
 
       }
 	
