@@ -18,5 +18,4 @@ public class STATICMETHOD {
     STATICMETHOD obj=new STATICMETHOD();
     obj.display();
 	}
-
 }
