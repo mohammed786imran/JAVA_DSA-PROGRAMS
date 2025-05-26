@@ -12,6 +12,7 @@ public class NUM5 {
 		}
 		System.out.println();
 		}
-	}
-
-}
+	     
+	     }
+       
+          }
