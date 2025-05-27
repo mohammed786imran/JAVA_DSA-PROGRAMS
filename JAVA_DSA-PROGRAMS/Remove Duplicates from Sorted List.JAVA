@@ -21,8 +21,7 @@
                 // Otherwise, move to the next node
                 current = current.next;
             }
-        }
-        
+        } 
         return head; // Return the modified list
     }
 }
