@@ -16,3 +16,4 @@ class Solution {
         return left; // Return the insertion position when the loop ends
     }
 }
+
