@@ -16,7 +16,8 @@ System.out.print("minimum value:"+c);
 		else
 			min=n1;
 		return min;
-	}
+	
+      }
 
 }
 
