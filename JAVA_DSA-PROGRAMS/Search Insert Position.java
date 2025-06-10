@@ -13,7 +13,8 @@ class Solution {
                 right = mid - 1; // Narrow the search to the left half
             }
         }
-        return left; // Return the insertion position when the loop ends
+    return left; // Return the insertion position when the loop ends
+    
     }
 }
 
