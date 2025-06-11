@@ -7,6 +7,7 @@ class Solution {
                 index++;
             }
         }
+        
         return index;
      
     }
