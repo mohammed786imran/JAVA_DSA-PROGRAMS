@@ -11,6 +11,7 @@ public class NUM5 {
 		System.out.print(j);
 		}
 		System.out.println();
+		
 		}
 	     
 	     }
