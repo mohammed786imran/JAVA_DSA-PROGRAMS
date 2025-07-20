@@ -15,4 +15,5 @@ class test implements INTERFACEVAR,B
 		System.out.println(INTERFACEVAR.x);
 		System.out.print(B.x);
 	}
+
 }
